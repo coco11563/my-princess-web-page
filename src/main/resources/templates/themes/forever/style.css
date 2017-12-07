@@ -1,0 +1,31 @@
+/*	
+Theme Name:Forever
+Theme URI:http://demo.buxiping.com/forever
+Description:
+Version:100
+*/
+.recommend li{
+	list-style:none;
+}
+
+.recommend ul li, .recommend ul{
+    padding-left:0;
+}
+.recommend ul{
+    margin-top:10px;
+    
+}
+.recommend ul li{
+    line-height:30px;
+}
+.hide{
+display:none;
+}
+
+.desc
+{
+margin-bottom:20px!important;
+}
+.product-buynow{
+    background: red;
+}
